@@ -16,7 +16,7 @@ label {
 	color: #DBE2E9;
 }
 #background_image {
-	background:url('images/Background.jpg') no-repeat center center;
+	background:url('images/background.jpg') no-repeat center center;
     background-size: cover;
     width:100%;
     padding: 0px;
